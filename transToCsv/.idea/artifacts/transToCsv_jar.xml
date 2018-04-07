@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="transToCsv:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/transToCsv_jar</output-path>
+    <root id="archive" name="transToCsv.jar">
+      <element id="module-output" name="transToCsv" />
+    </root>
+  </artifact>
+</component>
