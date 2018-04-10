@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TwitterMiner.iml" filepath="$PROJECT_DIR$/TwitterMiner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cvsToTrans/cvsToTrans.iml" filepath="$PROJECT_DIR$/cvsToTrans/cvsToTrans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transToCsv/transToCsv.iml" filepath="$PROJECT_DIR$/transToCsv/transToCsv.iml" />
     </modules>
   </component>
 </project>
