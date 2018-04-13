@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/TwitterMiner.iml" filepath="$PROJECT_DIR$/TwitterMiner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assosiations/assosiations.iml" filepath="$PROJECT_DIR$/assosiations/assosiations.iml" />
       <module fileurl="file://$PROJECT_DIR$/cvsToTrans/cvsToTrans.iml" filepath="$PROJECT_DIR$/cvsToTrans/cvsToTrans.iml" />
       <module fileurl="file://$PROJECT_DIR$/transToCsv/transToCsv.iml" filepath="$PROJECT_DIR$/transToCsv/transToCsv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tweetsToCsv/tweetsToCsv.iml" filepath="$PROJECT_DIR$/tweetsToCsv/tweetsToCsv.iml" />
     </modules>
   </component>
 </project>
